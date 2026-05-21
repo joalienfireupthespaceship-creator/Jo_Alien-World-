@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Jo_Alien\u0027$ World",
+  "description": "Real-time autotune plugin and AI space music video creator featuring neon visuals, dynamic synths, user image/video injection, and 4K video exports.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
